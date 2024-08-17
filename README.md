@@ -27,3 +27,4 @@ Technologies Used:
 1. Python: The main programming language used to develop the calculator.
 2. Input/Output Functions: Python's `input()` function for user input and `print()` function for displaying results.
 3. Basic Arithmetic Operators: Python's built-in operators for addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
+
